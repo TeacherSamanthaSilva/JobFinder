@@ -89,7 +89,7 @@ nav:after {
 
 /* banner */
 #main-banner {
-	background: url('../img/banner6.jpg') no-repeat;
+	background: url('images/banner6.jpg') no-repeat;
 	background-size: cover;
 	background-position: 0 55%;
 	position: relative;
@@ -298,7 +298,7 @@ nav:after {
 
 /* send jobs container */
 #sendjobs-container {
-	background: url('../img/banner2.jpg') no-repeat;
+	background: url('images/banner2.jpg') no-repeat;
 	background-size: cover;
 	background-position: 0 25%;
 	padding: 15em 0;
@@ -383,7 +383,7 @@ nav:after {
 
 /* testmony container */
 #testmony-container {
-	background: url('../img/banner7.jpg') no-repeat;
+	background: url('images/banner7.jpg') no-repeat;
 	background-size: cover;
 	padding: 10em 0;
 }
