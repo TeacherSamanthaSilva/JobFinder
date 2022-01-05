@@ -88,7 +88,7 @@ nav:after {
 
 /* banner */
 #main-banner {
-	background: url('../img/banner6.jpg') no-repeat;
+	background: url('images/banner6.jpg') no-repeat;
 	background-size: cover;
 	background-position: 0 55%;
 	position: relative;
